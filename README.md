@@ -10,7 +10,8 @@ and black pegs: proper color on board in the proper location 12 turns, display b
 
 # Example 
 
-``` Turn one >> ABCE
+``` 
+ Turn one >> ABCE
   -----------
  1 | A B C E | bww
  2 | o o o o |
@@ -40,4 +41,4 @@ and black pegs: proper color on board in the proper location 12 turns, display b
 10 | o o o o |
 11 | o o o o |
 12 | o o o o |
-   ----------- ```
+   -----------
