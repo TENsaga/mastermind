@@ -12,7 +12,7 @@ and black pegs: proper color on board in the proper location 12 turns, display b
 
 ``` 
  Turn one >> ABCE
-  -----------
+   -----------
  1 | A B C E | bww
  2 | o o o o |
  3 | o o o o |
