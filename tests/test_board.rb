@@ -1,10 +1,6 @@
 require "./lib/mastermind/board.rb"
-# require "test/unit"
 require 'minitest/autorun'
-# require 'minitest/pride'
 require 'minitest/reporters'
-
-# Minitest::Reporters.use! [Minitest::Reporters::ProgressReporter.new]
 
 Minitest::Reporters.use!(
   Minitest::Reporters::ProgressReporter.new,

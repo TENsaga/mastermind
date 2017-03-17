@@ -47,7 +47,6 @@ class Board
   def white_pegs(guess)
     guess.delete(' ').each_char do |char|
       @hints += "w" if @code_check.include? char
-      # @ai_white = char if @code_check.include? char
     end
     @hints.split("").shuffle.sort.join
   end
